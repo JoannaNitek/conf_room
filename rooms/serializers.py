@@ -1,5 +1,5 @@
-from rest_framework import serializers
 from .models import Reservation, Room
+from rest_framework import serializers
 
 
 #serializacja - proces zamaiany obiektu (modelu django) na JSONa
